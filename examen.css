@@ -1,0 +1,84 @@
+body {
+    background: #0e12f8;
+}
+
+.tarjeta1,
+.tarjeta2 {
+    width: 320px; 
+}
+
+.tarjeta1 {
+    background: #0e12f8;
+}
+
+.pais {
+    background-color: #0eba2e;
+    text-align: center;
+    padding: 1px;
+}
+
+.textoaño h1 {
+    color: white;
+}
+
+.jugadores {
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.item1,
+.item2,
+.item3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.foto {
+    width: 80px;
+    height: 80px;
+    background-color: #000000;
+    border-radius: 50%;
+}
+
+.texto {
+    color: black;
+}
+
+.año {
+    background-color: #ff0000;
+    text-align: center;
+    padding: 1px;
+}
+
+.tarjeta2 {
+    background-color: black;
+}
+
+.titulo {
+    color: white;
+    text-align: center;
+}
+
+.cuadro {
+    width: 245px;
+    height: 140px;
+    background-color: white;
+    margin: 40px;
+    border-radius: 16px;
+}
+
+.barra {
+    background-color: #0eba2e;
+    display: flex;
+}
+
+.textobarra {
+    flex: 1;
+    color: white;
+    text-align: center;
+    padding: 1px;
+
+}
